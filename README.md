@@ -1,9 +1,4 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Greed
-
-# NomedoProjeto
+# Agenda de Aposentados
 
 **Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Greed<br>
