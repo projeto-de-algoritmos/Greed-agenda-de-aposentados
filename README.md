@@ -1,30 +1,21 @@
 **!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
  - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0119006 | Enzo Gabriel Guedes Queiroz Saraiva |
+| 16/0114705  |  Bruno Alves Félix |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto agenda de aposentados é um meio para ajudarmos nossos pais e parentes aposentados a reanjarem suas rotinas da melhor forma possível. Lá o usuário pode cadastrar as atividades de seu interesse, seus horários e colocar as que são prioridade para aquele momento. Com tudo isso cadastrado, o usuário receberá um retorno visual de como é a melhor forma de se matricular nas atividades.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
