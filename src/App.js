@@ -1,23 +1,18 @@
+import { Flex } from '@chakra-ui/react';
+import { useState } from 'react';
 import './App.css';
+import { ModalExample } from './Modal';
+import { Schedule } from './Table';
 
 function App() {
+  const [activities, setActivities] = useState([[], [], [], [], []]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Flex bg={"#"} justifyContent={"center"} alignItems={"center"} flexDirection={"column"} h='calc(100vh)'>
+      <ModalExample activities={activities} setActivities={setActivities}/>
+      <Schedule activities={activities}></Schedule>
+    </Flex>
+  )
 }
 
 export default App;
