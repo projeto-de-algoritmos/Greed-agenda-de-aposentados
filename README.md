@@ -25,3 +25,4 @@ Rode npm install ou apenas yarn no terminal
 Após o fim da instalação, rode yarn start ou npm start na pasta do projeto para rodar o frontend
 
 ## Uso 
+Na tela inicial, você terá a visualização do agenda. Ao clicar, no botão de Adicionar Tarefa, estará inserindo uma lista de tarefas, com sua pioridade. Por fim, ao clicar no botão Gerar Agenda está criando toda a grade de tarefas, em seus dias e horários. Caso tenha choque de tarefas, a de maior pioridade prevalece.
