@@ -13,7 +13,12 @@
 O projeto agenda de aposentados é um meio para ajudarmos nossos pais e parentes aposentados a reanjarem suas rotinas da melhor forma possível. Lá o usuário pode cadastrar as atividades de seu interesse, seus horários e colocar as que são prioridade para aquele momento. Com tudo isso cadastrado, o usuário receberá um retorno visual de como é a melhor forma de se matricular nas atividades.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://user-images.githubusercontent.com/38733364/180945860-4e0af917-18c5-4488-b4f8-e4f7053f31af.png)
+
+![image](https://user-images.githubusercontent.com/38733364/180946013-8aefbb33-e31b-420a-9f29-be5debab60ca.png)
+
+![image](https://user-images.githubusercontent.com/38733364/180946055-cfbcec68-379f-44f0-a2e0-ff421a823bf7.png)
+
 
 ## Instalação 
 Linguagem: javascript<br>
