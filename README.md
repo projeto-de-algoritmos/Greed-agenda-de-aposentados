@@ -16,16 +16,12 @@ O projeto agenda de aposentados é um meio para ajudarmos nossos pais e parentes
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Linguagem: javascript
+Framework: ReactJs
+
+Clone o repositório
+Abra a pasta do repositório no terminal
+Rode npm install ou apenas yarn no terminal
+Após o fim da instalação, rode yarn start ou npm start na pasta do projeto para rodar o frontend
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
