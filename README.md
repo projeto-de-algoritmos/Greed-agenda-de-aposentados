@@ -16,7 +16,7 @@ O projeto agenda de aposentados é um meio para ajudarmos nossos pais e parentes
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-Linguagem: javascript
+Linguagem: javascript<br>
 Framework: ReactJs
 
 Clone o repositório
