@@ -4,12 +4,14 @@ import montaGrade from './intervalScheduling';
 
 export function Schedule({activities}){
   const row = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-  const [column, setColumn] = useState([[], [], [], [], [], []]);
+  const [column, setColumn] = useState([]);
 
   const criarGrid = () => {
     console.log(montaGrade(activities));
     setColumn(montaGrade(activities));
   };
+
+  console.log(column, row)
 
   return (
     <>
@@ -30,12 +32,13 @@ export function Schedule({activities}){
             {row.map((rowIndex) => (
               <Tr key={rowIndex}>
                 <Td>{rowIndex+8}h</Td>
-                {column.map((col) => (
-                  col[rowIndex] !== undefined ? (
-                    <Td key={col[rowIndex]}>col[rowIndex]</Td>
-                  ) : (
-                    <Td>-</Td>
-                  )
+                {column.map((col, index) => (
+                    console.log(index),
+                  // col[rowIndex] !== undefined ? (
+                    <Td>{col[rowIndex]}</Td>
+                  // ) : (
+                  //   <Td>-</Td>
+                  // )
                 ))}
               </Tr>
             ))}
